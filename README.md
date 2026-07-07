@@ -62,13 +62,6 @@ Tenho interesse em desenvolver aplicações modernas, com foco em:
 🚀 Meu Portfólio:
 https://portifolio-ketelyn.vercel.app/
 
-💻 Projetos:
-
-- Landing pages responsivas
-- Aplicações Web
-- APIs
-- Projetos de estudo Full Stack
-
 ---
 
 ## 💬 Vamos conversar?
