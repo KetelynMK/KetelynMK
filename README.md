@@ -1,7 +1,7 @@
 
 <h3 align="center">
-<h1 Ketelyn Nunes de Assis <\h1>
-🚀 Desenvolvedora Web em formação | ADS | Apaixonada por tecnologia
+Ketelyn Nunes de Assis
+Desenvolvedora Web em formação | ADS | Apaixonada por tecnologia
 </h3>
 
 <p align="center">
