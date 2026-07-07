@@ -1,4 +1,4 @@
-<h3 align="center"> Ketelyn Assis <\h3>
+<h3 align="center"> Ketelyn Assis
 <h3 align="center"> Desenvolvedora Web em formação | ADS | Apaixonada por tecnologia </h3>
 
 <p align="center">
