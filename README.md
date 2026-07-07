@@ -70,4 +70,4 @@ https://grupo-assis.vercel.app/
 
 Estou aberta para oportunidades de estágio, projetos e conexões na área de tecnologia.
 
-🚀 Sempre aprendendo. Sempre evoluindo.
+Sempre aprendendo. Sempre evoluindo.
