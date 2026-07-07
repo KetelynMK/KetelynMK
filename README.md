@@ -1,8 +1,5 @@
-
-<h3 align="center">
-Ketelyn Nunes de Assis
-Desenvolvedora Web em formação | ADS | Apaixonada por tecnologia
-</h3>
+<h3 align="center"> Ketelyn Assis <\h3>
+<h3 align="center"> Desenvolvedora Web em formação | ADS | Apaixonada por tecnologia </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ketelyn-assis-ab19b3201?utm_source=share_via&utm_content=profile&utm_medium=member_android">LinkedIn</a> •
