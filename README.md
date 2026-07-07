@@ -51,7 +51,7 @@ Tenho interesse em desenvolver aplicações modernas, com foco em:
 📌 React e TypeScript  
 📌 APIs REST  
 📌 Banco de Dados  
-📌 Inteligência Artificial Generativa
+📌 Inteligência Artificial Generativa  
 📌 AWS e Azure  
 📌 Engenharia de Pront para ChatGPT
 
