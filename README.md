@@ -1,11 +1,16 @@
-# 👩‍💻 Ketelyn 
+# 👩‍💻 Ketelyn | Desenvolvedora Web
+
+<p align="center">
+  <img src="COLOQUE_SUA_IMAGEM_AQUI" width="100%">
+</p>
+
 <h3 align="center">
 🚀 Desenvolvedora Web em formação | ADS | Apaixonada por tecnologia
 </h3>
 
 <p align="center">
   <a href="SEU_LINK_LINKEDIN">LinkedIn</a> •
-  <a href="SEU_LINK_PORTFOLIO">Portfólio</a> •
+  <a href="https://portifolio-ketelyn.vercel.app/">Portfólio</a> •
   <a href="SEU_EMAIL">Email</a>
 </p>
 
