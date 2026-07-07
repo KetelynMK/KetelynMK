@@ -1,10 +1,6 @@
-Ketelyn | Desenvolvedora Web
-
-<p align="center">
-  <img src="https://seu-link-da-imagem.png" width="100%">
-</p>
 
 <h3 align="center">
+<h1 Ketelyn Nunes de Assis <\h1>
 🚀 Desenvolvedora Web em formação | ADS | Apaixonada por tecnologia
 </h3>
 
