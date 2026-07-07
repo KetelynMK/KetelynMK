@@ -71,12 +71,6 @@ https://portifolio-ketelyn.vercel.app/
 
 ---
 
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight"/>
-
----
-
 ## 💬 Vamos conversar?
 
 Estou aberta para oportunidades de estágio, projetos e conexões na área de tecnologia.
