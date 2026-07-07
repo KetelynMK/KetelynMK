@@ -1,7 +1,7 @@
 Ketelyn | Desenvolvedora Web
 
 <p align="center">
-  <img src="https://photos.app.goo.gl/JFDefNwwJoqYGJym9" width="100%">
+  <img src="https://seu-link-da-imagem.png" width="100%">
 </p>
 
 <h3 align="center">
@@ -9,9 +9,9 @@ Ketelyn | Desenvolvedora Web
 </h3>
 
 <p align="center">
-  <a href="SEU_LINK_LINKEDIN">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/ketelyn-assis-ab19b3201?utm_source=share_via&utm_content=profile&utm_medium=member_android">LinkedIn</a> •
   <a href="https://portifolio-ketelyn.vercel.app/">Portfólio</a> •
-  <a href="SEU_EMAIL">Email</a>
+  <a href="assiskety846@gmail.com">Email</a>
 </p>
 
 ---
