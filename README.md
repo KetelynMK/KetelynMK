@@ -1,7 +1,7 @@
-# 👩‍💻 Ketelyn | Desenvolvedora Web
+Ketelyn | Desenvolvedora Web
 
 <p align="center">
-  <img src="COLOQUE_SUA_IMAGEM_AQUI" width="100%">
+  <img src="https://photos.app.goo.gl/JFDefNwwJoqYGJym9" width="100%">
 </p>
 
 <h3 align="center">
@@ -16,7 +16,7 @@
 
 ---
 
-## 👩‍💻 Sobre mim
+# Sobre mim
 
 Olá! Eu sou a Ketelyn.
 
