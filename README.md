@@ -61,7 +61,7 @@ Tenho interesse em desenvolver aplicações modernas, com foco em:
 
 🚀 Meu Portfólio:
 https://portifolio-ketelyn.vercel.app/  
-🚀 Site Freelancer 
+🚀 Site Freelancer:
 https://grupo-assis.vercel.app/
 
 ---
