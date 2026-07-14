@@ -68,6 +68,6 @@ https://grupo-assis.vercel.app/
 
 ## 💬 Vamos conversar?
 
-Estou aberta para oportunidades de estágio, projetos e conexões na área de tecnologia.
+Estou aberta para oportunidades de estágio, projetos e conexões na área de tecnologia, quero futuramente estar na area de robotica.
 
 Sempre aprendendo. Sempre evoluindo.
