@@ -42,7 +42,7 @@ Tenho interesse em desenvolver aplicações modernas, com foco em:
 
 ### Cloud & DevOps
 
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,git,github,linux" />
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,git,github,linux,vercel" />
 
 ---
 
