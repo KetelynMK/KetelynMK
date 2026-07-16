@@ -38,7 +38,7 @@ Tenho interesse em desenvolver aplicações modernas, com foco em:
 
 ### Banco de Dados
 
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,sqlserver" />
 
 ### Cloud & DevOps
 
