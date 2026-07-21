@@ -13,7 +13,7 @@
 
 Olá! Eu sou a Ketelyn.
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e estou construindo minha carreira na área de tecnologia.
+Sou estudante de **Big Data** e estou construindo minha carreira na área de tecnologia.
 
 Atualmente estudo desenvolvimento **Front-end, Back-end, Cloud Computing e DevOps**, criando projetos para evoluir minhas habilidades e construir um portfólio profissional.
 
